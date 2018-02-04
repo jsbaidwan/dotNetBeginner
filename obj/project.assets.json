@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaspreet.singh\\.netProjects\\myconsoleapp\\myconsoleapp.csproj",
+      "projectUniqueName": "C:\\Users\\jaspreet.singh\\.netProjects\\dotNetBeginner\\myconsoleapp.csproj",
       "projectName": "myconsoleapp",
-      "projectPath": "C:\\Users\\jaspreet.singh\\.netProjects\\myconsoleapp\\myconsoleapp.csproj",
+      "projectPath": "C:\\Users\\jaspreet.singh\\.netProjects\\dotNetBeginner\\myconsoleapp.csproj",
       "packagesPath": "C:\\Users\\jaspreet.singh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaspreet.singh\\.netProjects\\myconsoleapp\\obj\\",
+      "outputPath": "C:\\Users\\jaspreet.singh\\.netProjects\\dotNetBeginner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
