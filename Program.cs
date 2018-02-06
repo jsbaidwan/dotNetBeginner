@@ -8,6 +8,7 @@ namespace myconsoleapp
         {
             Console.WriteLine("I am Windows");
             Console.ReadLine();
+            Console.WriteLine("Test Commit");
         }
     }
 }
