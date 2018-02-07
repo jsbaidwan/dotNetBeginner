@@ -14,6 +14,7 @@ namespace mywebapp
     {
         public static void Main(string[] args)
         {
+            //Console.Write("Testing console on web");
             BuildWebHost(args).Run();
         }
 
