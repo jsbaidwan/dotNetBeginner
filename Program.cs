@@ -7,7 +7,7 @@ namespace myconsoleapp
         static void Main(string[] args)
         {
             Console.WriteLine("I am Windows");
-            Console.WriteLine("Test Commit");
+            Console.WriteLine("Test GitHib");
         }
     }
 }
