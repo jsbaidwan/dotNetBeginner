@@ -26,6 +26,8 @@ namespace mywebapp
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseMvc();
+
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hey!");
