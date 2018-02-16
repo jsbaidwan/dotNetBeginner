@@ -8,6 +8,7 @@ namespace myconsoleapp
         {
             Console.WriteLine("I am Windows");
             Console.WriteLine("Test GitHib`");
+            Console.ReadLine();
         }
     }
 }
