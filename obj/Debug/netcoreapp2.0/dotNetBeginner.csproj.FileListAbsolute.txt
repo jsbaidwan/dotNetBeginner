@@ -1,0 +1,10 @@
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\bin\Debug\netcoreapp2.0\dotNetBeginner.deps.json
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\bin\Debug\netcoreapp2.0\dotNetBeginner.runtimeconfig.json
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\bin\Debug\netcoreapp2.0\dotNetBeginner.runtimeconfig.dev.json
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\bin\Debug\netcoreapp2.0\dotNetBeginner.dll
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\bin\Debug\netcoreapp2.0\dotNetBeginner.pdb
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\obj\Debug\netcoreapp2.0\dotNetBeginner.csproj.CoreCompileInputs.cache
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\obj\Debug\netcoreapp2.0\dotNetBeginner.AssemblyInfoInputs.cache
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\obj\Debug\netcoreapp2.0\dotNetBeginner.AssemblyInfo.cs
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\obj\Debug\netcoreapp2.0\dotNetBeginner.dll
+C:\Users\singjasp-cont\dotNetProjects\dotNetBeginner\obj\Debug\netcoreapp2.0\dotNetBeginner.pdb
